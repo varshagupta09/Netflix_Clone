@@ -374,16 +374,26 @@ li h3{
 .footer{
     background: black;
     color: #B3B3B3;
-    padding: 30px;
+    padding: 30px;  
 }
 
 .call{
     padding-bottom:40px ;
+    margin-left: 100px;
 }
 
 .faq-help-menu{
     display: flex;
-    justify-content: space-around;
+    margin-left: 100px;
+}
+
+.help{
+    margin-left: 150px;
+}
+
+.menu{
+    margin-left: 150px;
+
 }
 
 .faq-help-menu ul li{
@@ -405,13 +415,17 @@ li h3{
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 100px;
 }
 
-
+.india{
+    margin-left: 100px;
+}
 
 .lang-bottom select{
     background: transparent;
     color: #fff;
     font-size: 15px;
     border: none;
+    
 }
